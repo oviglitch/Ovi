@@ -15,11 +15,11 @@ body {
 .card {
   background: #fff;
   border-radius: 20px;
-  box-shadow: 0 15px 30px rgba(0,0,0,0.1);
+  box-shadow: 0 16px 31px rgba(0,0,0,0.1);
   text-align: center;
   padding: 40px 30px;
-  max-width: 400px;
-  animation: fadeIn 1s ease-in-out;
+  max-width: 80vw
+  animation: fadeIn 0.90s ease-in-out;
 }
 
 @keyframes fadeIn {
